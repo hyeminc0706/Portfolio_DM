@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Fun fact: ...
 -->
 
-😄 I'm Min Choi, passionate digital marketer based in VA, U.S.
+😄 I'm Min Choi, passionate UIUX Designed based in VA, U.S.
 
 📫 Contact Info.
     hyeminc0706@gmail.com
