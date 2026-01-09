@@ -1,24 +1,15 @@
+# 👋 Hi, I'm Mina Choi
 
-<!--
-**hyeminc0706/hyeminc0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bilingual digital marketer and frontend designer based in Los Angeles, CA.  
+I specialize in social media strategy, influencer marketing, and responsive web design.  
+This portfolio showcases my work in content creation, campaign optimization, and UI/UX development.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Skills
+- HTML, CSS, JavaScript, React, Vue.js
+- Canva, Capcut, Figma, Adobe Suite
+- Excel, Notion, GitHub Pages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- 💬 Fun fact: ...
--->
-
-😄 I'm Min Choi, passionate UIUX Designed based in VA, U.S.
-
-📫 Contact Info.
-    hyeminc0706@gmail.com
-
-💬Languages and Tool
-    HTML/CSS/JAVASCRIPT/SASS/PS/FIGMA/Google Suite etc.
-
+## 📬 Contact
+- Email: hyeminc0706@gmail.com
+- [IG](https://www.instagram.com/minachoia/)
+- [Portfolio](https://hyeminc0706.github.io/Portfolio_1214)
