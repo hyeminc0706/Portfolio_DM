@@ -10,5 +10,6 @@ This portfolio showcases my work in content creation, campaign optimization, and
 - Excel, Notion, GitHub Pages
 
 ## 📬 Contact
+- [LinkedIn](https://www.linkedin.com/in/minachoia/)
 - [IG](https://www.instagram.com/minachoia/)
 - [Portfolio](https://hyeminc0706.github.io/Portfolio_1214/)
