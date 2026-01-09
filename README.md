@@ -12,4 +12,4 @@ This portfolio showcases my work in content creation, campaign optimization, and
 ## 📬 Contact
 - Email: hyeminc0706@gmail.com
 - [IG](https://www.instagram.com/minachoia/)
-- [Portfolio](https://hyeminc0706.github.io/Portfolio_1214)
+- [Portfolio](https://hyeminc0706.github.io/Portfolio_1214/)
